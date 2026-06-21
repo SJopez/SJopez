@@ -13,7 +13,7 @@ I’m passionate about **competitive programming** and **web development**, alwa
 
 ## 📊 Skills
 
-[![skills](https://skillicons.dev/icons?i=kotlin,cpp,py,html,css,js,git,github,vscode,windows,linux,ubuntu&perline=6)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=kotlin,cpp,py,html,css,js,react,vite,git,github,vscode,windows,linux,ubuntu&perline=6)](https://skillicons.dev)
 
 ## 🚀 Top repositories
 * 🧟 https://github.com/sergio060422/Event-Manager-Apocalipsis
