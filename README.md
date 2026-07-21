@@ -1,6 +1,6 @@
 # 🧩 Welcome to my profile 
 
-## ❔Whot is **Sergio**?
+## ❔Who is **Sergio**?
 *🍃 First name keep, last name trying*
 
 I’m a **Computer Science student** at the **University of Havana**.  
