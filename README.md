@@ -62,7 +62,7 @@ More in my profile!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SJopez&show_icons=true&theme=tokyonight&hide_border=true" alt="Sergio's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio060422&theme=tokyonight&hide_border=true" alt="Sergio's GitHub streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SJopez&theme=tokyonight&hide_border=true" alt="Sergio's GitHub streak" height="165"/>
 </p>
 
 ## 📫 Contact
