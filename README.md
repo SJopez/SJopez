@@ -2,7 +2,7 @@
 
 # 🧩 Welcome to my profile
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Web+Developer;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -39,8 +39,12 @@ I'm passionate about **competitive programming** and **web development**, always
 
 <table>
   <tr>
+    <td>🌪️</td>
+    <td><a href="https://github.com/SJopez/Chaos-Viewer">Chaos-Viewer</a></td>
+  </tr>
+  <tr>
     <td>🧟</td>
-    <td><a href="https://github.com/sergio060422/Event-Manager-Apocalipsis">Event-Manager-Apocalipsis</a></td>
+    <td><a href="https://github.com/sergio060422/Event-Manager-Apocalipsis">Apocalypse-Event-Manager</a></td>
   </tr>
   <tr>
     <td>⚡</td>
