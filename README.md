@@ -29,6 +29,7 @@ I'm passionate about **competitive programming** and **web development**, always
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;&nbsp;
@@ -67,17 +68,6 @@ More in my profile!
   <img src="https://github-stats-extended.vercel.app/api?username=SJopez&show_icons=true&theme=tokyonight&hide_border=true" alt="Sergio's GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=SJopez&theme=tokyonight&hide_border=true" alt="Sergio's GitHub streak" height="165"/>
 </p>
-
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://t.me/SOADgods">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
-<div align="center">
 
 ---
 ⭐️ Thanks for stopping by!
